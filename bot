@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord.utils import get
 from discord import app_commands
 
-TOKEN = "MTM5MzY5NTY0NTA1NDkyNjg2OA.G-H78O.gH2wVg5jD5DqA-QM5ONgJ12G7Q9CPpFK-tfF2E"
+TOKEN = "MTM5MzY5NTY0NTA1NDkyNjg2OA.GY2Qp9.WvtcX54YRfuK0px4WiVYRsHpAYybudKWjB3bn0"
 ROLE_SENIOR = "Senior"
 MONITOR_CHANNEL_ID = 1385379151803977839
 
