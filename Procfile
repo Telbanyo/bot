@@ -1,1 +1,1 @@
-start: python3 disc.py
+start: python3 Bot/disc.py
